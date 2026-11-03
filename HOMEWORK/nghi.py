@@ -1,1 +1,1 @@
-print("nghingu")
+print("quan")
