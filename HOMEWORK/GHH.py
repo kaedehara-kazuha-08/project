@@ -24,4 +24,3 @@ for i in range(n):
 print(ans)
 for i in range(ans):
     print(b[i])
-#Truong Thanh Nghi
