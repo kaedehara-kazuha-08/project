@@ -1,7 +1,7 @@
 import sys
 
-sys.stdin = open("test.INP", "r")
-sys.stdout = open("test.OUT", "w")
+sys.stdin = open("GHH.INP", "r")
+sys.stdout = open("GHH.OUT", "w")
 
 N=int(1e6+5)
 sum=[1]*N
